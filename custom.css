@@ -1,0 +1,39 @@
+* {
+  /* font-family: AccordAlternate, "Times New Roman", Times, serif; */
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  max-width: 216mm;
+  padding: 1mm;
+}
+.full-border {
+  border: 1px solid #dcdde1;
+}
+header {
+  background: #192a56;
+  padding: 10px;
+  box-sizing: border-box;
+  color: #f5f6fa;
+}
+.photo {
+  height: 80px;
+  width: 80px;
+  border-radius: 40px;
+  margin-right: 10px;
+}
+
+.pd-10 {
+  padding: 10px;
+}
+
+.right-side-bar {
+  background: #f5f6fa;
+}
+
+.section-title {
+  color: #1956;
+  font-size: 26px;
+  font-family: "AccordAlternate";
+}

@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "AccordAlternate";
+  src: url("AccordAlternate.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "AccordAlternate";
+  src: url("AccordAlternateItalic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: "AccordAlternate";
+  src: url("AccordAlternateBold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "AccordAlternate";
+  src: url("AccordAlternateBoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
