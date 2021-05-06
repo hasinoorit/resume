@@ -22,3 +22,14 @@
   font-weight: 700;
   font-style: italic;
 }
+
+@font-face {
+  font-family: "Jetbrains Mono";
+  src: url("JetBrainsMono.ttf") format("truetype");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Jetbrains Mono";
+  src: url("JetBrainsMonoItalic.ttf") format("truetype");
+  font-style: italic;
+}
